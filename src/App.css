@@ -36,3 +36,104 @@
     transform: rotate(360deg);
   }
 }
+
+/* crausel page */
+.d-block{
+  height: 80vh;
+}
+.prod_head{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color:#00123c;
+  color: antiquewhite;
+  height: 4rem;
+}
+.but{
+  margin-left: 11rem;
+}
+.carding{
+  display: flex;
+}
+.final_card{
+  background-color: rgb(220, 216, 216);
+}
+.footer_img{
+  width: 99vw;
+}
+
+
+/* Login page */
+.login_head {  
+  background: #71a97e !important;  
+  font-family: 'Muli', sans-serif; 
+  height: 100vh; 
+}  
+h1 {  
+  color: #fff;  
+  padding-bottom: 2rem;  
+  font-weight: bold;  
+}  
+a {  
+  color: #333;  
+}  
+a:hover {  
+  color: #E8D426;  
+  text-decoration: none;  
+}  
+.form-control:focus {  
+    color: #000;  
+    background-color: #fff;  
+    border: 2px solid #E8D426;  
+    outline: 0;  
+    box-shadow: none;  
+}  
+.btn {  
+  background: #4d7b59;  
+  border: #E8D426;  
+}  
+.btn:hover {  
+  background: #5c9168;  
+  border: #E8D426;  
+}  
+.signup_main{
+  background-color: white;
+  margin-left: 20vw;
+  width: 60vw;
+  /* border: 1px solid grey; */
+}
+.head_name{
+  color: black;
+}
+.app_bar{
+  background-color: #00123c;
+}
+.admin_btn{
+  background-color: rgb(168, 168, 223);
+  color: white;
+  margin-left: 3rem;
+}
+.sign_btn{
+  background-color: rgb(168, 168, 223);
+  color: white;
+  margin-left: 60vw;
+}
+.log_btn{
+  background-color: rgb(168, 168, 223);
+  color: white;
+  margin-left: 3rem;
+}
+
+
+.admin_head{
+  width: 35vw;
+  margin-left: 5rem;
+}
+.heading{
+  color: #000;
+}
+.btn-success{
+  margin-left: 1rem;
+
+}
+
